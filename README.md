@@ -17,6 +17,8 @@ Actions Taken:
 	-Not Available
 	-Above the national average
 
+![image](https://github.com/user-attachments/assets/5ee92d62-1e7f-49a3-81c4-50c20da429a1)
+
 Overall Analysis:
 - There are a total of 4,623 hospitals in the entire country in the year 2017. Overall average rating is 3.06 which is "same of the national average"
 - It is important to note that 74% of total hospitals has an overall rating
